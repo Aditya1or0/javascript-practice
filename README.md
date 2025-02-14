@@ -29,3 +29,9 @@ Increment the salary of employees whose performance score is 9 or above by 1000.
 ### **Question 9:**
 
 Reverse an array.
+
+---
+
+### **Question 9:**
+
+Empty an array.
