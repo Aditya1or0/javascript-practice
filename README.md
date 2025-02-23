@@ -36,8 +36,17 @@ Reverse an array.
 
 Empty an array.
 
+---
+
 ### **Question 7:**
 
 Check whether a number is odd or even.
+
+---
+
+### **Question 8:**
+
+Reverse a string.
+
 
 
