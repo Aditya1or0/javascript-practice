@@ -48,5 +48,11 @@ Check whether a number is odd or even.
 
 Reverse a string.
 
+---
+
+### **Question 9:**
+
+JavaScript var and setTimeout asynchronous behavior
+
 
 
