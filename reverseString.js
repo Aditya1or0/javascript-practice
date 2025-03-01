@@ -6,7 +6,18 @@ function reverseString(str) {
   return reversedStr;
 }
 
-// Test the function
+
 const myString = "hello";
 const reversed = reverseString(myString);
 console.log(reversed); // Output: "olleh"
+
+//-----------Second Method---------
+//const reverseString = (str) => {
+//   var newString= str.split("") //Output-> [ 'b', 'u', 't', 't', 'e', 'r' ] 
+  // newString= newString.reverse()// Output->[ 'r', 'e', 't', 't', 'u', 'b' ]
+  //   newString= newString.join("") // Output->rettub
+  //  return newString
+//}
+
+
+//console.log(reverseString("butter"));
