@@ -54,9 +54,13 @@ Reverse a string.
 
 JavaScript var and setTimeout asynchronous behavior
 
+---
+
 ### **Question 10:**
 
 Maximum element in array
+
+---
 
 ### **Question 11:**
 
