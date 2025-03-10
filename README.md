@@ -66,5 +66,11 @@ Maximum element in array
 
 Missing element in array
 
+---
+
+### **Question 12:**
+
+Minnimum Value in array
+
 
 
